@@ -18,18 +18,19 @@ body {
 }
 
 button {
-    background-color: #0072ff;
+    background-color: #ff5e00;
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 13px 26px;
     margin: 5px;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 6px;
     transition: background-color 0.3s ease;
+    font-size: 1.1em;
 }
 
 button:hover {
-    background-color: #005bb5;
+    background-color: #f78c0b;
 }
 
 #PacPill {
