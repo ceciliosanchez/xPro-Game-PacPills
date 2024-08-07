@@ -1,0 +1,40 @@
+body {
+    background: 
+        linear-gradient(to right, rgba(0, 198, 255, 0), rgba(0, 114, 255, 0.1)),
+        url('img/background-blue-sky.png') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.controls {
+    position: absolute;
+    top: 20px;
+}
+
+button {
+    background-color: #ff5e00;
+    color: white;
+    border: none;
+    padding: 13px 26px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+    font-size: 1.1em;
+}
+
+button:hover {
+    background-color: #f78c0b;
+}
+
+#PacPill {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
