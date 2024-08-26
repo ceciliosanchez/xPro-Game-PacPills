@@ -1,4 +1,4 @@
-# Project for MIT xPro Full Stack Developer course
+# Full Stack Developer Exercise
 
 ## Pac Pill Animation
 
@@ -29,4 +29,3 @@ Reach out at http://ceciliosanchez.com/contact/
 ## License
 
 This project is licensed under the MIT License.
-
